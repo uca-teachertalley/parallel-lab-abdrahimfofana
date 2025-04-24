@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="..\prime_number_count(2).cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
